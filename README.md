@@ -9,6 +9,12 @@ First, install the packages:
 npm i
 ```
 
+Copy .env.example from .env
+
+```bash
+cp .env.example .env
+```
+
 Run the development server:
 
 ```bash
